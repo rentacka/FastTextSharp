@@ -9,4 +9,6 @@ QMatrixへの対応はFastTextを継承して作るべき
 
 とりあえず、バグはWord2VecのC++版の頃から多かった・・・ｗ
 
-それで、問題点ですが、９割くらいは
+
+FastText作者様
+https://github.com/facebookresearch/fastText
